@@ -1,2 +1,2 @@
 Texto de prueba
-Nuevo comentario **** Otro comment diferente
+**** Otro comment diferente
